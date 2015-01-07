@@ -1308,6 +1308,7 @@ containing a value of this type.
         public static final int ic_launcher=0x7f020033;
     }
     public static final class id {
+        public static final int action_about=0x7f080048;
         public static final int action_bar=0x7f080031;
         public static final int action_bar_activity_content=0x7f080000;
         public static final int action_bar_container=0x7f080030;
