@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\SVN\mv-planer-mobile\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\SVN\mv-planer-mobile\app\build\intermediates\pre-dexed\debug\classes-6cf1b86a7814fa1154e15f2f538d977bf62dd851.jar" />
+    </item>
+    <item
+        jar="D:\SVN\mv-planer-mobile\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\SVN\mv-planer-mobile\app\build\intermediates\pre-dexed\debug\classes-0b0523d7ec2edfa10f491ab76ecdcb46f9d44630.jar" />
+    </item>
+    <item
+        jar="C:\Users\Timo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\SVN\mv-planer-mobile\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-e13a740042f2763d656fe20550c996b9beb7f4c7.jar" />
+    </item>
+    <item
+        jar="D:\SVN\mv-planer-mobile\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\SVN\mv-planer-mobile\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-8f28ebc6fae37a691e09296354282a0e20246864.jar" />
+    </item>
+
+</items>

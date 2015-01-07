@@ -1,0 +1,5 @@
+D:\SVN\mv-planer-mobile\app\build\intermediates\classes\debug
+D:\SVN\mv-planer-mobile\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-e13a740042f2763d656fe20550c996b9beb7f4c7.jar
+D:\SVN\mv-planer-mobile\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-8f28ebc6fae37a691e09296354282a0e20246864.jar
+D:\SVN\mv-planer-mobile\app\build\intermediates\pre-dexed\debug\classes-6cf1b86a7814fa1154e15f2f538d977bf62dd851.jar
+D:\SVN\mv-planer-mobile\app\build\intermediates\pre-dexed\debug\classes-0b0523d7ec2edfa10f491ab76ecdcb46f9d44630.jar

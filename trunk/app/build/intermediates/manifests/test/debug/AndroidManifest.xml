@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="mvplanermobile.timoklostermann.de.mvplanermobile.test">
+
+    <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="21" />
+
+    <application>
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+    <instrumentation android:name="android.test.InstrumentationTestRunner"
+                     android:targetPackage="mvplanermobile.timoklostermann.de.mvplanermobile"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for mvplanermobile.timoklostermann.de.mvplanermobile"/>
+</manifest>
